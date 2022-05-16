@@ -45,7 +45,7 @@ GROUP BY Location
 ORDER BY TotalDeathCount desc
 
 
---Lets Break Down By Countinent
+--Lets Break Down By Continent
 
 --Showing the Continents with the highest death count
 
